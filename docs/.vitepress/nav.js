@@ -3,4 +3,5 @@ module.exports = [
   { text: '说明', link: '/explain/' },
   { text: '主题配置', link: '/options/' },
   { text: '小工具配置', link: '/widgets/' },
+  { text: '主题演示', link: 'https://ifalse.onll.cn' },
 ]
