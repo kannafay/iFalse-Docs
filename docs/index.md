@@ -22,7 +22,7 @@ features:
     details: 主题UI设计清新，没有花里胡哨且不及实用的设计。
   - icon: ⚡️
     title: 速度优先
-    details: 主题未使用依赖库等各种臃肿的插件，响应迅速。
+    details: 主题未使用依赖库或各种臃肿的插件等，响应迅速。
   - icon: ⚙
     title: 轻松上手
     details: 主题设置简单，没有繁琐的配置项，迅速上手。

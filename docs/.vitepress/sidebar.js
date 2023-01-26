@@ -29,4 +29,13 @@ module.exports = [
       { text: '特别说明', link: '/widgets/special-note' },
     ]
   },
+  {
+    text: '页面模板配置',
+    collapsible: true,
+    items: [
+      { text: '动态说说', link: '/template/' },
+      { text: '友情链接', link: '/template/friends' },
+      { text: '登录注册', link: '/template/login' },
+    ]
+  },
 ]
