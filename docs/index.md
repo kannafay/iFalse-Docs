@@ -4,7 +4,7 @@ layout: home
 hero:
   name: iFalse主题文档
   # text: iFalse Docs
-  tagline: 当前文档适用于主题版本号为：1.5.1
+  tagline: 当前文档适用于主题版本号为：1.5.3
   # image:
     # src: /banner.png
     # alt: banner
