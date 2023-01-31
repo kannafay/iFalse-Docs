@@ -6,6 +6,7 @@ module.exports = [
       { text: '关于', link: '/explain/about' },
       { text: '赞助', link: '/explain/sponsor' },
       { text: '常见问题', link: '/explain/' },
+      { text: '细节问题', link: '/explain/details' },
     ]
   },
   {

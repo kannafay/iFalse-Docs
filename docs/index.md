@@ -3,11 +3,11 @@ layout: home
 
 hero:
   name: iFalse主题文档
-  text: iFalse Docs
-  tagline: 当前文档适用的主题版本号为：1.5.1
-  image:
-    src: /banner.png
-    alt: banner
+  # text: iFalse Docs
+  tagline: 当前文档适用于主题版本号为：1.5.1
+  # image:
+    # src: /banner.png
+    # alt: banner
   actions:
     - theme: brand
       text: 开始阅读
@@ -31,6 +31,6 @@ features:
 <style>
   :root {
   --vp-home-hero-name-color: transparent;
-  --vp-home-hero-name-background: -webkit-linear-gradient(120deg, #a1a1f7, #8183ff);
+  --vp-home-hero-name-background: -webkit-linear-gradient(120deg, #58b3f5, #8183ff);
 }
 </style>
