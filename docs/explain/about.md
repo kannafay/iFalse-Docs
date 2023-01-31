@@ -10,7 +10,7 @@
 
 ## 相关链接
 
-- 主题演示：https://ifalse.onll.cn
+- 主题官网：https://ifalse.onll.cn
 - 主题文档：https://ifalse.onll.cn/docs
 - GitHub：https://github.com/kannafay/iFalse
 - Gitee：https://github.com/kannafay/iFalse
