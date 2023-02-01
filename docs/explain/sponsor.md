@@ -1,6 +1,12 @@
 # 赞助
 
-目前仅支持通过Gitee赞助。
+目前支持通过爱发电、Gitee赞助。
+
+:::warning 赞助渠道
+爱发电：https://afdian.net/a/kannafay
+
+Gitee：https://gitee.com/kannafay/iFalse
+:::
 
 ## 赞助名单
 
